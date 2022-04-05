@@ -20,3 +20,7 @@
 - Run `npm start`
 - Open `http://localhost:3000/`
 <br>
+
+# Live Demo
+A live demo of the site can be found [here](#https://meme-ify.netlify.app/)
+---
