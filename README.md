@@ -8,7 +8,7 @@
 
 ## Introduction
 
-**Memeify** is an easy to use online meme maker built using ReactJS. It uses the [Imgflip API](#https://imgflip.com/api) to fetch and manipulate the images.
+**Memeify** is an easy to use online meme maker built using ReactJS. It uses the [Imgflip API](https://imgflip.com/api) to fetch and manipulate the images.
 
 ---
 
@@ -22,5 +22,5 @@
 <br>
 
 ## Live Demo
-A live demo of the site can be found [here](#https://meme-ify.netlify.app/)
+A live demo of the site can be found [here](https://meme-ify.netlify.app/)
 ---
