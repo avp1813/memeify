@@ -15,6 +15,7 @@
 ## How to use?
 
 - Clone the repo: `git clone https://github.com/avp1813/memeify.git`
+- Run `cd memeify`
 - Run `npm install`
 - Run `npm start`
 - Open `http://localhost:3000/`
