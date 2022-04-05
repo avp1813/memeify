@@ -21,6 +21,6 @@
 - Open `http://localhost:3000/`
 <br>
 
-# Live Demo
+## Live Demo
 A live demo of the site can be found [here](#https://meme-ify.netlify.app/)
 ---
